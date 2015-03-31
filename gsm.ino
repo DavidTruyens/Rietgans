@@ -8,5 +8,6 @@ void setup()
 void loop()
 {
 	digitalWrite(LedPin, HIGH);
+	//dit is een test
 }
 

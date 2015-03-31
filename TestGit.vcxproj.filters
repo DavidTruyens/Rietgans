@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="TestGit.ino" />
+    <None Include="gsm.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Visual Micro\.TestGit.vsarduino.h">

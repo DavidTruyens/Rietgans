@@ -8,7 +8,7 @@ void setup()
 void loop()
 {
 	digitalWrite(LedPin, HIGH);
-	hihi
+	
   /* add main program code here */
 
 }

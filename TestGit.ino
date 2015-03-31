@@ -7,6 +7,6 @@ void setup()
 
 void loop()
 {
-	digitalWrite(LedPin, Low);
+	digitalWrite(LedPin, HIGH);
 	//nog een testje
 }

@@ -68,7 +68,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="gsm.ino" />
+    <None Include="gsm.ino">
+      <FileType>CppCode</FileType>
+    </None>
     <None Include="TestGit.ino">
       <FileType>CppCode</FileType>
     </None>
